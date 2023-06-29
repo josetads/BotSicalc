@@ -1,0 +1,1 @@
+Compress-Archive -LiteralPath . -DestinationPath "BotSicalc.zip" -Force
